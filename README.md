@@ -9,6 +9,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 ## Two Pointers
 |  |
@@ -22,10 +23,12 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Counting
 |  |
 | ------- |
