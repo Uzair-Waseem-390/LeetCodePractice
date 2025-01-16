@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
@@ -34,9 +35,18 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
