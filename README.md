@@ -12,6 +12,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
