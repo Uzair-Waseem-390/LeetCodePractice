@@ -62,6 +62,7 @@
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
+| [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
@@ -76,6 +77,7 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
