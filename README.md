@@ -64,6 +64,7 @@
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3194-find-words-containing-character) |
