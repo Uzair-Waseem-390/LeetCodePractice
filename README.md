@@ -62,6 +62,7 @@
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
+| [3636-check-balanced-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
 | ------- |
