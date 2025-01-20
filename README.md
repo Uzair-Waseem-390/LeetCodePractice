@@ -23,6 +23,7 @@
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3194-find-words-containing-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
