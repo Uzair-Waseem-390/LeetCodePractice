@@ -22,6 +22,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3194-find-words-containing-character) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
 | ------- |
