@@ -26,6 +26,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
