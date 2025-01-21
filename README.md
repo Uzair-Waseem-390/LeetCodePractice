@@ -50,6 +50,7 @@
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -86,6 +87,7 @@
 | [1797-goal-parser-interpretation](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1944-truncate-sentence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1944-truncate-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2819-remove-trailing-zeros-from-a-string) |
