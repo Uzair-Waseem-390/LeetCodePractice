@@ -90,6 +90,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2886-faulty-keyboard) |
@@ -109,6 +110,7 @@
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
 ## Linked List
@@ -131,5 +133,6 @@
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
