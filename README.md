@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0932-monotonic-array) |
 | [1168-duplicate-zeros](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1168-duplicate-zeros) |
@@ -110,6 +111,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
@@ -135,6 +137,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
