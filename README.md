@@ -16,6 +16,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
 | [1944-truncate-sentence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
@@ -143,4 +144,8 @@
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
