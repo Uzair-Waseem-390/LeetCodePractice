@@ -41,6 +41,7 @@
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1168-duplicate-zeros) |
+| [1894-merge-strings-alternately](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
