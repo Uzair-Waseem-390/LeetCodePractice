@@ -22,6 +22,7 @@
 | [1944-truncate-sentence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
@@ -92,6 +93,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1944-truncate-sentence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
