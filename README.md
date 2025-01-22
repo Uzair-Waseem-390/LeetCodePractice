@@ -18,6 +18,7 @@
 | [1580-shuffle-the-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
+| [1833-find-the-highest-altitude](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -148,4 +149,5 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
