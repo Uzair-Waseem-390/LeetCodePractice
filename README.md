@@ -114,6 +114,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
@@ -138,6 +139,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -150,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
