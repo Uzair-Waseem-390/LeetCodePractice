@@ -39,6 +39,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1168-duplicate-zeros) |
@@ -93,6 +94,7 @@
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -156,6 +159,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
