@@ -25,6 +25,7 @@
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2195-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
