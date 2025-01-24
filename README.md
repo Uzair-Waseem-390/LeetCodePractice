@@ -99,6 +99,7 @@
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1651-shuffle-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -163,6 +164,7 @@
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
