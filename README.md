@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0932-monotonic-array) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
