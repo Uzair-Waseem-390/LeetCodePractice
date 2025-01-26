@@ -33,6 +33,7 @@
 | [2881-split-strings-by-separator](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3194-find-words-containing-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3582-find-indices-of-stable-mountains) |
@@ -48,6 +49,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
