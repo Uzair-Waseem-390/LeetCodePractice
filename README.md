@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
@@ -179,4 +180,8 @@
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1833-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
