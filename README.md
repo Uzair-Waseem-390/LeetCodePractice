@@ -38,6 +38,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -189,4 +192,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
