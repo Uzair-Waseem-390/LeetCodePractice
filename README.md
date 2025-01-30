@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
