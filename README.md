@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
