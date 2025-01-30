@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0932-monotonic-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
