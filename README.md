@@ -55,6 +55,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -81,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
