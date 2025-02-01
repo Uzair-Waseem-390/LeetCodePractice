@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
