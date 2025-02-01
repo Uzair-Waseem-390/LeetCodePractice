@@ -76,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
