@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -90,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -135,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0125-valid-palindrome) |
