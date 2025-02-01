@@ -14,6 +14,7 @@
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [0841-shortest-distance-to-a-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1168-duplicate-zeros) |
@@ -65,6 +66,7 @@
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
@@ -142,6 +144,7 @@
 | [0541-reverse-string-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0782-jewels-and-stones) |
+| [0841-shortest-distance-to-a-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
