@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
