@@ -97,6 +97,7 @@
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
@@ -126,6 +127,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -145,6 +147,7 @@
 | [0125-valid-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
