@@ -46,6 +46,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3519-find-the-number-of-winning-players) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -91,6 +92,7 @@
 | [2383-add-two-integers](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2383-add-two-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
