@@ -45,6 +45,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3519-find-the-number-of-winning-players](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3519-find-the-number-of-winning-players) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -120,6 +121,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
