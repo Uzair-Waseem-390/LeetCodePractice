@@ -230,6 +230,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
@@ -296,4 +297,8 @@
 | [0011-container-with-most-water](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
