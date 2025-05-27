@@ -100,6 +100,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2383-add-two-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
