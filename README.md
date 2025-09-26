@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
@@ -77,6 +78,7 @@
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0953-reverse-only-letters) |
@@ -141,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -276,6 +279,7 @@
 | [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
@@ -300,6 +304,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Recursion
 |  |
