@@ -96,6 +96,7 @@
 | [0007-reverse-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0125-valid-palindrome) |
