@@ -97,6 +97,7 @@
 | [0009-palindrome-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -175,6 +176,7 @@
 | [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -224,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
@@ -255,6 +258,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 ## Stack
