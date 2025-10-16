@@ -99,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -221,12 +222,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0874-backspace-string-compare) |
