@@ -17,6 +17,7 @@
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0704-binary-search) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0932-monotonic-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0932-monotonic-array) |
@@ -292,6 +293,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0704-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
