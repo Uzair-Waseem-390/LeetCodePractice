@@ -109,6 +109,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2383-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-number-of-common-factors) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-number-of-common-factors) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
@@ -305,6 +307,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-number-of-common-factors) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String Matching
