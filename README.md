@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +100,7 @@
 | [0009-palindrome-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
