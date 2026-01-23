@@ -103,6 +103,7 @@
 | [0066-plus-one](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
 ## Stack
@@ -331,4 +333,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
