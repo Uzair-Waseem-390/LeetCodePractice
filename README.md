@@ -105,6 +105,7 @@
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -335,4 +336,5 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
