@@ -105,6 +105,7 @@
 | [0202-happy-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -191,6 +192,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0782-jewels-and-stones) |
