@@ -109,6 +109,7 @@
 | [0342-power-of-four](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
+| [1323-maximum-69-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1323-maximum-69-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -332,6 +333,7 @@
 | [0011-container-with-most-water](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
+| [1323-maximum-69-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1323-maximum-69-number) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Recursion
 |  |
