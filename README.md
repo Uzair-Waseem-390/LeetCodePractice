@@ -137,6 +137,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -158,6 +159,7 @@
 | [0088-merge-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1019-squares-of-a-sorted-array) |
@@ -172,6 +174,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2427-first-letter-to-appear-twice](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/2427-first-letter-to-appear-twice) |
@@ -180,6 +183,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -197,6 +201,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -342,4 +347,8 @@
 | [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0342-power-of-four) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
