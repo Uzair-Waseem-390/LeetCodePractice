@@ -109,6 +109,7 @@
 | [0342-power-of-four](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1323-maximum-69-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -347,8 +349,13 @@
 | [0231-power-of-two](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0509-fibonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Uzair-Waseem-390/LeetCodePractice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
